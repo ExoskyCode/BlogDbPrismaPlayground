@@ -1,5 +1,5 @@
 
-import { AddBlog } from "./components/Blog/AddBlog/AddBlog"
+import { AddBlog } from "./components/Blog/AddBlog/AddPost"
 
 
 export default function Home() {
